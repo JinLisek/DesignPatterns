@@ -1,5 +1,4 @@
 #include <memory>
-
 #include "WinFactory.hpp"
 #include "OSXFactory.hpp"
 #include "IButton.hpp"
